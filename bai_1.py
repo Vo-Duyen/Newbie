@@ -1,0 +1,2 @@
+a, b = int(input()), int(input())
+print("a + b = " + str(a + b) + "\na - b = " + str(a - b) + "\na * b = " + str(a * b) + "\na / b = " + str(a / b) + "\na ** b = " + str(a ** b) + "\na % b = " + str(a % b) + "\na > b = " + str(a > b) + "\na AND b = " + str(a and b) + "\na OR b = " + str(a or b) + "\na XOR b = " + str(a ^ b) + "\nNOT a == b " + str(a != b) + "\n a dich phai 5 bits: " + str(a << 5) + "\n a dich trai 6 bits: " + str(a >> 6) + "\nHe co so 2 dao nguoc cua a la: " + str(bin(a)[::-1][:-2]))
