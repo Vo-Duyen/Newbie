@@ -1,0 +1,1 @@
+exec('a1, a2, a3, a4, a5, a6 = int(input()), int(input()), int(input()), int(input()), int(input()), int(input())\nprint("TAM GIAC") if (a1 - a3) * (a2 - a6) - (a1 - a5) * (a2 - a4) else print("KHONG PHAI TAM GIAC")')
